@@ -4,6 +4,26 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://D:/WebServer/php5.6" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://D:/WebServer/php5.6" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://D:/WebServer/php5.6/pharcommand.phar" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://D:/WebServer/php5.6/pharcommand.phar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
 
